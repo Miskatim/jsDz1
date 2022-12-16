@@ -1,0 +1,30 @@
+#crossIMG   {
+    display: none;
+    position: fixed;
+    margin-left: 2%;
+}
+
+#menyFillingLorem   {
+    width: 15%;
+    top: 10%;
+    position: absolute;
+    transform: translate(-120%, 0);
+    transition: 1s;
+}
+
+#burgerIMG    {
+    position: fixed;
+    margin-left: 2%;
+}
+
+#burgerA    {
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+
+#cross1     {
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
